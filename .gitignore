@@ -1,0 +1,13 @@
+# Backup file
+*~
+.*.swp
+.*.swo
+*.bak
+
+# Tex
+*.pdf
+*.toc
+*.aux
+*.log
+*.nav
+*.snm
