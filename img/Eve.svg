@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="192.21094"
+   height="225.12271"
+   id="svg3629"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Eve.svg">
+  <defs
+     id="defs3631">
+    <linearGradient
+       x1="117.78982"
+       y1="514.12817"
+       x2="165.93407"
+       y2="514.12817"
+       id="linearGradient15486-1"
+       xlink:href="#linearGradient4859-1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.649006,-0.08238005,0.599007,-0.629245,-70.038248,543.88212)" />
+    <linearGradient
+       id="linearGradient4859-1">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0"
+         id="stop4861-3" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="1"
+         id="stop4863-0" />
+    </linearGradient>
+    <linearGradient
+       x1="456.92114"
+       y1="552.36664"
+       x2="485.71429"
+       y2="466.64789"
+       id="linearGradient15484-7"
+       xlink:href="#linearGradient3100-4"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.420736,0,0,0.424242,52.933053,58.911818)" />
+    <linearGradient
+       id="linearGradient3100-4">
+      <stop
+         style="stop-color:#e99d30;stop-opacity:1"
+         offset="0"
+         id="stop3102-3" />
+      <stop
+         style="stop-color:#e99d30;stop-opacity:0"
+         offset="1"
+         id="stop3104-6" />
+    </linearGradient>
+    <linearGradient
+       y2="756.71814"
+       x2="528.74286"
+       y1="617.42798"
+       x1="90.549141"
+       gradientTransform="matrix(-1,0,0,-1.717949,611.03311,1408.6739)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3076"
+       xlink:href="#linearGradient16361-4"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient16361-4">
+      <stop
+         style="stop-color:#69b631;stop-opacity:1"
+         offset="0"
+         id="stop16363-7" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1"
+         id="stop16365-5" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="208.51908"
+     inkscape:cy="10.602297"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="679"
+     inkscape:window-height="729"
+     inkscape:window-x="683"
+     inkscape:window-y="31"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata3634">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-86.751673,-179.80083)">
+    <path
+       inkscape:connector-curvature="0"
+       d="m 89.373174,402.30204 c -0.009,-51.8945 41.847656,-93.96824 93.483966,-93.96824 51.63631,0 93.49322,42.07374 93.48397,93.96824"
+       style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5.24300003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path15466-5"
+       inkscape:export-filename="/home/michaelfherbst/Dokumente/Studiensachen/University_of_Cambridge/Societies/Churchill Jazz/Webmaster/path15476-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 259.60841,256.81887 c 0.01,41.4284 -33.57158,75.01804 -74.99995,75.01804 -41.42837,0 -75.00991,-33.58964 -74.99995,-75.01804 -0.01,-41.4284 33.57158,-75.01804 74.99995,-75.01804 41.42837,0 75.00991,33.58964 74.99995,75.01804 l 0,0 z"
+       style="fill:#eeac4d;fill-opacity:1;fill-rule:nonzero;stroke:#2b1100;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path15470-1"
+       inkscape:export-filename="/home/michaelfherbst/Dokumente/Studiensachen/University_of_Cambridge/Societies/Churchill Jazz/Webmaster/path15476-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 257.29054,256.88345 c 0.01,40.17296 -32.55426,72.7447 -72.72723,72.7447 -40.17297,0 -72.73688,-32.57174 -72.72722,-72.7447 -0.01,-40.17295 32.55425,-72.74469 72.72722,-72.74469 40.17297,0 72.73689,32.57174 72.72723,72.74469 l 0,0 z"
+       style="fill:url(#linearGradient15484-7);fill-opacity:1;fill-rule:nonzero;stroke:#2b1100"
+       id="path15472-3"
+       inkscape:export-filename="/home/michaelfherbst/Dokumente/Studiensachen/University_of_Cambridge/Societies/Churchill Jazz/Webmaster/path15476-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 199.53822,216.13182 c -12.39495,-5.92844 -32.70847,-7.94903 -55.03481,10.58577 -12.48829,10.36749 -35.28725,6.40319 -27.36794,-2.92016 20.88577,-24.5887 18.96862,-34.7808 69.95306,-41.38638 20.31106,-2.63151 46.46955,12.91618 63.0108,37.92597 8.74284,13.21886 4.00484,21.89338 -50.56111,-4.2052 z"
+       style="fill:#2b1100;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path15474-4"
+       inkscape:export-filename="/home/michaelfherbst/Dokumente/Studiensachen/University_of_Cambridge/Societies/Churchill Jazz/Webmaster/path15476-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 130.23592,206.69988 c 10.28242,-10.80654 25.62007,-18.68139 34.25144,-17.58579 8.63136,1.09561 7.28549,10.74647 -3.00554,21.55192 -10.28241,10.80654 -25.62007,18.68139 -34.25143,17.58579 -8.63136,-1.0956 -7.2855,-10.74647 3.00553,-21.55192 z"
+       style="opacity:0.30901292;fill:url(#linearGradient15486-1);fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path15476-1"
+       inkscape:export-filename="/home/michaelfherbst/Dokumente/Studiensachen/University_of_Cambridge/Societies/Churchill Jazz/Webmaster/path15476-1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>

@@ -1,0 +1,28 @@
+%spezielle Folien:
+\newcommand{\statusFolie}[1][]{%
+	\frame{%
+		\frametitle{\contentsname}
+		\ifthenelse{  \equal{#1}{full}  }{%
+			\tableofcontents%
+		}{%
+			\tableofcontents[currentsection]%
+		}
+	}
+}
+
+%inserts a full table of contents slide
+\newcommand{\tocframe}{\statusFolie[full]}
+
+\newcommand{\blackframe}{ 
+	\bgroup
+	\setbeamercolor{background canvas}{bg=black}
+	\setbeamertemplate{navigation symbols}{}
+	\addtocounter{framenumber}{-1}
+	\begin{frame}<handout:0>[plain]{}	%show plain black frame, but not in handout
+	\end{frame}
+	\egroup
+}
+
+
+%Automatic slides
+\AtBeginSection[] {\statusFolie}

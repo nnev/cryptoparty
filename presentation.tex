@@ -1,0 +1,77 @@
+%\documentclass[draft]{beamer}
+ \documentclass[mathserif]{beamer}
+%\usepackage{...}
+
+\usepackage{xmpincl}
+\includexmp{metadata}
+
+% font, encoding, input
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}	%font
+\usepackage{relsize}	%Adjust font size relatively
+\usepackage{url}
+
+% Mathe:
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage[tight]{units}			%Sch\"one Einheiten via \unit[Zahl]{Einheit}, \unit{Einheit^-1}
+
+% Graphics:
+\usepackage{graphicx}
+\usepackage{tikz}	%great drawing in tex package
+\usepackage{pgfpages}	%for notes on second screen
+
+%------------------------------------------------------------------
+%Graphis and font settings:
+\graphicspath{ {./img/} }
+\usetikzlibrary{overlay-beamer-styles} %for visible on=<2-> property in TikZ
+
+%------------------------------------------------------------------
+%Show or hide notes
+
+\setbeameroption{hide notes}
+
+%\setbeameroption{show only notes}
+%\newcommand{\makeindex}{}
+
+%\setbeameroption{show notes}
+%\setbeameroption{show notes on second screen} %=left, =bottom, =top
+
+%------------------------------------------------------------------
+
+%Title
+\title{Everyday Cryptography}
+\author[NoName e.V.]{NoName e.V. \\ \small{\texttt{crypto@noname-ev.de} } \\ \small{\url{http://crypoparty-hd.de}} }
+\institute{NoName e.V.}
+\date[xx.05.15]{xx Mai 2015}
+\subject{Everyday Cryptography}
+
+%------------------------------------------------------------------
+
+%Beamer settings
+\useinnertheme{rounded}
+\useoutertheme{miniframes}
+\usecolortheme{seahorse}
+
+\setbeamercovered{transparent}          	% halbtransparente Overlays
+\setbeamertemplate{footline}[frame number]      % Seitenzahl einfügen
+\usepackage{lmodern}    			% Font
+
+\beamertemplatenavigationsymbolsempty
+\input{presentationfunctions}
+
+%------------------------------------------------------------------
+% Da content
+
+\begin{document}
+
+\titlepage
+\rmfamily %change font on slide body
+\tocframe
+\input{0_intro}
+\input{1_email}
+\input{2_install}
+\input{3_ende}
+\blackframe
+
+\end{document}

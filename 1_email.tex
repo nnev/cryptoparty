@@ -1,0 +1,219 @@
+\usetikzlibrary{arrows,decorations.pathmorphing,backgrounds,positioning,fit,petri}
+
+\section{Was'n los mit Email}
+\subsection{Überblick}
+\begin{frame}{EMail früher}
+	\begin{tikzpicture}[
+			node distance = 0cm,
+			pre/.style={<-,shorten <=1pt,>=stealth',semithick},
+			post/.style={->,shorten >=1pt,>=stealth',semithick}
+		]
+		\only<1-2>{
+		\node (bob) {\includegraphics[height=1.5cm]{Bob}}; 
+		\node (alice) [right=of bob,xshift=7.5cm] {\includegraphics[height=1.5cm]{Alice}};
+		}
+
+		\only<1>{%
+		\draw [post,opacity=0] (bob.east) 
+			.. controls +(60:2cm) and +(120:2cm) ..
+			node[above,opacity=0] {\includegraphics[height=1cm]{Document}} (alice.west);%
+		}
+		\only<2>{%
+		\draw [post] (bob.east) 
+			.. controls +(60:2cm) and +(120:2cm) ..
+			node[above] {\includegraphics[height=1cm]{Document}} (alice.west);%
+		}
+
+		\only<3->{%
+		\node (bob) {\includegraphics[height=1cm]{Bob}}; 
+		\node (alice) [right=of bob,xshift=8cm] {\includegraphics[height=1cm]{Alice}};
+		\node (server1) [right=of bob,yshift=2cm,xshift=1cm] {\includegraphics[height=1cm]{server}};
+		\node (server2) [left=of alice,yshift=2cm,xshift=-1cm] {\includegraphics[height=1cm]{server}};
+		}
+
+		\only<3-4>{
+		\draw [post] (bob.north) 
+			.. controls +(60:1cm) and +(120:1cm) ..
+			node[above] {\includegraphics[width=0.7cm]{Document}} 
+			 (server1.west);
+		\draw [post] (server1.east) 
+			.. controls +(-60:1cm) and +(-120:1cm) ..
+			node[below] {\includegraphics[width=0.7cm]{Document}} 
+			 (server2.west);
+		\draw [post] (server2.east) 
+			.. controls +(60:1cm) and +(120:1cm) ..
+			node[above] {\includegraphics[width=0.7cm]{Document}} 
+			 (alice.north);
+		}
+
+		\only<5->{
+		\draw [post] (bob.north) 
+			.. controls +(60:1cm) and +(120:1cm) ..
+			node[above] {\includegraphics[width=0.7cm]{Document}} 
+			node[above=0.7cm] {\includegraphics[height=0.7cm]{Eve}} 
+			 (server1.west);
+		\draw [post] (server1.east) 
+			.. controls +(-60:1cm) and +(-120:1cm) ..
+			node[below] {\includegraphics[width=0.7cm]{Document}} 
+			node[above] {\includegraphics[height=0.7cm]{Eve}} 
+			 (server2.west);
+		\draw [post] (server2.east) 
+			.. controls +(60:1cm) and +(120:1cm) ..
+			node[above] {\includegraphics[width=0.7cm]{Document}} 
+			node[above=0.7cm] {\includegraphics[height=0.7cm]{Eve}} 
+			 (alice.north);
+
+		\node(evil1)  [above=-0.2cm of server1] {\includegraphics[height=0.7cm]{Eve}};
+		\node(evil2)  [above=-0.2cm of server2] {\includegraphics[height=0.7cm]{Eve}};
+		}
+
+		\only<3->{
+		\node(doc1)  [above=of server1,opacity=0] {\includegraphics[height=0.5cm]{Document}};
+		\node(doc2)  [above=of server2,opacity=0] {\includegraphics[height=0.5cm]{Document}};
+		\node(eve1)  [above=-0.2cm of doc1,opacity=0] {\includegraphics[height=0.7cm]{Eve}};
+		\node(eve2)  [above=-0.2cm of doc2,opacity=0] {\includegraphics[height=0.7cm]{Eve}};
+		\node(prb1)  [above right=-0.45cm of eve1,opacity=0] {\small \#\$!?};
+		\node(prb2)  [above right=-0.45cm of eve2,opacity=0] {\small \#\$!?};
+		}
+
+		\only<3>{
+			\node(mail1) [on grid,above=0cm of server1,opacity=0] {\includegraphics[height=0.5cm]{Document}};
+			\node(mail2) [on grid,above=0cm of server2,opacity=0] {\includegraphics[height=0.5cm]{Document}};
+		}
+
+		\only<4->{
+		\node(mail1) [on grid,above=0cm of server1,opacity=0.9] {\includegraphics[height=0.5cm]{Document}};
+		\node(mail2) [on grid,above=0cm of server2,opacity=0.9] {\includegraphics[height=0.5cm]{Document}};
+		}
+
+
+		%\only<3>{%
+		%\draw [post] (bob.east) 
+		%	.. controls +(60:2cm) and +(120:2cm) ..
+		%	node[below] {\includegraphics[height=1cm]{Document}}
+		%	node[above] {\includegraphics[height=1.5cm]{Eve}} (alice.west);%
+		%}
+	\end{tikzpicture} 
+\end{frame}
+
+\begin{frame}{Demo}
+	\begin{center}
+		\LARGE DEMO
+	\end{center}
+\end{frame}
+
+\begin{frame}{EMail heute}
+	\begin{tikzpicture}[
+			node distance = 0cm,
+			pre/.style={<-,shorten <=1pt,>=stealth',semithick},
+			post/.style={->,shorten >=1pt,>=stealth',semithick}
+		]
+		\node (bob) {\includegraphics[height=1cm]{Bob}}; 
+		\node (alice) [right=of bob,xshift=8cm] {\includegraphics[height=1cm]{Alice}};
+		\node (server1) [right=of bob,yshift=2cm,xshift=1cm] {\includegraphics[height=1cm]{server}};
+		\node (server2) [left=of alice,yshift=2cm,xshift=-1cm] {\includegraphics[height=1cm]{server}};
+
+		\only<1>{
+		\draw [post] (bob.north) 
+			.. controls +(60:1cm) and +(120:1cm) ..
+			node[above] {\includegraphics[width=0.7cm]{Document}} 
+			 (server1.west);
+		\draw [post] (server1.east) 
+			.. controls +(-60:1cm) and +(-120:1cm) ..
+			node[below] {\includegraphics[width=0.7cm]{Document}} 
+			 (server2.west);
+		\draw [post] (server2.east) 
+			.. controls +(60:1cm) and +(120:1cm) ..
+			node[above] {\includegraphics[width=0.7cm]{Document}} 
+			 (alice.north);
+
+		\node(mail1) [on grid,above=0cm of server1,opacity=0.9] {\includegraphics[height=0.5cm]{Document}};
+		\node(mail2) [on grid,above=0cm of server2,opacity=0.9] {\includegraphics[height=0.5cm]{Document}};
+		}
+
+		\only<2>{
+			\node(mail1) [on grid,above=0cm of server1,opacity=0] {\includegraphics[height=0.5cm]{mail_open}};
+			\node(mail2) [on grid,above=0cm of server2,opacity=0] {\includegraphics[height=0.5cm]{mail_open}};
+		}
+		\only<1-3>{
+			\node(doc1)  [above=of server1,opacity=0] {\includegraphics[height=0.5cm]{Document}};
+			\node(doc2)  [above=of server2,opacity=0] {\includegraphics[height=0.5cm]{Document}};
+			\node(eve1)  [above=-0.2cm of doc1,opacity=0] {\includegraphics[height=0.7cm]{Eve}};
+			\node(eve2)  [above=-0.2cm of doc2,opacity=0] {\includegraphics[height=0.7cm]{Eve}};
+			\node(prb1)  [above right=-0.45cm of eve1,opacity=0] {\small \#\$!?};
+			\node(prb2)  [above right=-0.45cm of eve2,opacity=0] {\small \#\$!?};
+		}
+		\only<3->{
+			\node(mail1) [on grid,above=0cm of server1,opacity=0.9] {\includegraphics[height=0.5cm]{mail_open}};
+			\node(mail2) [on grid,above=0cm of server2,opacity=0.9] {\includegraphics[height=0.5cm]{mail_open}};
+		}
+		\only<4->{
+			\node(doc1)  [above=of server1] {\includegraphics[height=0.5cm]{Document}};
+			\node(doc2)  [above=of server2] {\includegraphics[height=0.5cm]{Document}};
+			\node(eve1)  [above=-0.2cm of doc1] {\includegraphics[height=0.7cm]{Eve}};
+			\node(eve2)  [above=-0.2cm of doc2] {\includegraphics[height=0.7cm]{Eve}};
+			\node(prb1)  [above right=-0.45cm of eve1,opacity=0] {\small \#\$!?};
+			\node(prb2)  [above right=-0.45cm of eve2,opacity=0] {\small \#\$!?};
+		}
+
+		\only<2->{%
+		\draw [post] (bob.north) 
+			.. controls +(60:1cm) and +(120:1cm) ..
+			node[above] {\includegraphics[width=0.7cm]{mail_closed}} 
+			 (server1.west);
+		\draw [post] (server1.east) 
+			.. controls +(-60:1cm) and +(-120:1cm) ..
+			node[below] {\includegraphics[width=0.7cm]{mail_closed}} 
+			 (server2.west);
+		\draw [post] (server2.east) 
+			.. controls +(60:1cm) and +(120:1cm) ..
+			node[above] {\includegraphics[width=0.7cm]{mail_closed}} 
+			 (alice.north);
+		}
+	\end{tikzpicture} 
+\end{frame}
+
+\begin{frame}{Using End2End encryption (e.g. Pretty Good Privacy)}
+	\begin{tikzpicture}[
+			node distance = 0cm,
+			pre/.style={<-,shorten <=1pt,>=stealth',semithick},
+			post/.style={->,shorten >=1pt,>=stealth',semithick}
+		]
+		\node(bob) {\includegraphics[height=1cm]{Bob}}; 
+		\node(alice) [right=of bob,xshift=8cm] {\includegraphics[height=1cm]{Alice}};
+		\node(server1) [right=of bob,yshift=2cm,xshift=1cm] {\includegraphics[height=1cm]{server}};
+		\node(server2) [left=of alice,yshift=2cm,xshift=-1cm] {\includegraphics[height=1cm]{server}};
+		\node(mail1) [on grid,above=0cm of server1,opacity=0.9] {\includegraphics[height=0.5cm]{mail_locked}};
+		\node(mail2) [on grid,above=0cm of server2,opacity=0.9] {\includegraphics[height=0.5cm]{mail_locked}};
+		\node(doc1)  [above=of server1,opacity=0] {\includegraphics[height=0.5cm]{Document}};
+		\node(doc2)  [above=of server2,opacity=0] {\includegraphics[height=0.5cm]{Document}};
+		\node(eve1)  [above=-0.2cm of doc1] {\includegraphics[height=0.7cm]{Eve}};
+		\node(prb1)  [above right=-0.45cm of eve1] {\small \#\$!?};
+		\node(eve2)  [above=-0.2cm of doc2] {\includegraphics[height=0.7cm]{Eve}};
+		\node(prb2)  [above right=-0.45cm of eve2] {\small \#\$!?};
+
+		\draw [post] (bob.north) 
+			.. controls +(60:1cm) and +(120:1cm) ..
+			node[above] {\includegraphics[width=0.7cm]{mail_locked}} 
+			 (server1.west);
+		\draw [post] (server1.east) 
+			.. controls +(-60:1cm) and +(-120:1cm) ..
+			node[below] {\includegraphics[width=0.7cm]{mail_locked}} 
+			 (server2.west);
+		\draw [post] (server2.east) 
+			.. controls +(60:1cm) and +(120:1cm) ..
+			node[above] {\includegraphics[width=0.7cm]{mail_locked}} 
+			 (alice.north);
+		
+		\draw [post,color=red,line width=5pt] (bob.north)
+		.. controls +(40:3cm) and +(140:3cm) ..
+		node[above=-0.6cm] {\includegraphics[width=0.7cm]{mail_locked}}
+		(alice.north);
+	\end{tikzpicture} 
+	\note[item]{PGP in short}
+\end{frame}
+
+\begin{frame}{Asymmetric encryption (here: PGP)}
+	Postkarte rumgeben
+\end{frame}
+

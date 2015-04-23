@@ -11,3 +11,5 @@
 *.log
 *.nav
 *.snm
+*.xmpi
+*.out
