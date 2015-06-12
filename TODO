@@ -14,6 +14,52 @@ fingerprint überprüfen
 
 dokumente zu web of trust und so bereitstellen
 
+Virtuelle Maschine Windows 
+Virtuelle Maschine LinuX
+
+Install Win:
+	GPG4Win
+
+Install MacOS:
+	https://gpgtools.org/
+	Apple Mail Plugin kostet Geld	
+
+Install LinuX:
+	icedove/thunderbird
+	gnupg2
+	enigmail
+
+
+Enigmail:
+	Assistent (generiert 4096 RSA für 5 Jahre)
+	Schlüsselverwaltung
+		-> Ablaufdatum
+		-> Benutzerkennung
+	Verschlüsselte EMail verfassen
+		-> Automatische Verschlüsselung
+		-> Meinen Schlüssel anhängen
+		-> PGP Mime
+		-> Schickt euch keys!!
+		-> Mail an info@michael-herbst.com, jonas@letopolis.de
+			(Herunterladen vom "Telefonbuch")
+			(Hochladen wenn Interesse)
+	Fragen?
+	Schlüsselverwaltung
+		-> Mail Signing
+	(unvertraute korrekte unterschrift)
+		-> Fingerprint
+		-> Key Signing
+
+	Fragen?
+
+Themen darüber hinaus (Folien):
+	Zeug auf mobilen Geräten:
+		K9-Mail & APG (Link zu Anleitung)
+	Outlook
+	Facebook (PGP Password Reset, Status abfragen, 
+                  Nachteil: They know all the emails in your Keyring -- so use a different one!)
+	Windows Mail geht damit nicht ...
+
 
 ##################
 #-- Anonymität --#
