@@ -23,8 +23,8 @@
 		     xmlns:dc='http://purl.org/dc/elements/1.1/'>
       <dc:title>
 	<rdf:Alt>
-	  <rdf:li xml:lang='x-default'>Everyday Cryptography</rdf:li>
-	  <rdf:li xml:lang='en'>Everyday Cryptography</rdf:li>
+	  <rdf:li xml:lang='x-default'>E-Mail Verschl&#252;sselung</rdf:li>
+	  <rdf:li xml:lang='de'>E-Mail Verschl&#252;sselung</rdf:li>
 	</rdf:Alt>
       </dc:title>
     </rdf:Description>
