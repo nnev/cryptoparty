@@ -13,3 +13,6 @@
 *.snm
 *.xmpi
 *.out
+
+# Checkin stuff from Werbung
+!*_Werbung/*.pdf
