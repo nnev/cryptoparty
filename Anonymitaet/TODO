@@ -7,14 +7,22 @@ Anonymität
 	https://panopticlick.eff.org/
 	Bayes Theorem für Überwachung
 
-Tor Browser
-	installation
-	mögliche Gefahren
-
-Broserplugin Auswahl:
-	Self-Destroying Cookies
-	Ghostery
-	(NoScript)
-
 Dienstalternativen:
-	Duckduckgo oder Startpage statt Google
+	https://prism-break.org/
+	Startpage statt Google
+	(es gibt noch andere: DuckDuckGo, Disconnect Search)
+
+Tor Browser
+	Was ist Tor? --> Tafel
+	Installation TorBowser zeigen
+	mögliche Gefahren
+		- Wer ist Exit Node?
+		- Verschiedene Arten von Anonymität
+		- Recherchieren (Michael)
+
+Browserplugin Auswahl:
+	- Self-Destroying Cookies
+	- Ghostery / Disconnect (entweder oder)
+	- HTTPS Everywhere
+	- Attention: It will break things
+	- NoScript --- (mit always allow / allow direct sites, top level domain)
