@@ -9,8 +9,22 @@ Anonymität
 
 Dienstalternativen:
 	https://prism-break.org/
-	Startpage statt Google
-	(es gibt noch andere: DuckDuckGo, Disconnect Search)
+
+	Search:
+		Startpage statt Google
+		(es gibt noch andere: DuckDuckGo, Disconnect Search)
+
+	Google Maps:
+		Openstreetmap.org statt Google Maps
+	
+	EMail Anbieter:
+		Posteo.de statt Google, Yahoo, Live Mail
+		mailbox.org
+		manitu.de / strato.de / het ....
+
+	File Storage 
+		kolab.ch account (statt Dropbox)
+		hosted owncloud
 
 Tor Browser
 	Was ist Tor? --> Tafel
@@ -27,6 +41,7 @@ Tor Browser
 		- Tor ohne HTTPS ist eine *sehr* schlechte Idee
 		- Downloads und Browserplugins können sekundäre Verbindungen öffnen
 			- PDFs mit Call-Back Funktion
+		- keine Browserplugins nachinstallieren
 		- Verschiedene Arten von Anonymität
 			- Standortanonymität
 				( mein Mailprovider weiß nicht wo ich bin )
@@ -40,8 +55,8 @@ Browserplugin Auswahl:
 	- Self-Destroying Cookies
 	- Ghostery / Disconnect (entweder oder)
 	- HTTPS Everywhere
+	- NoScript --- (mit always allow / allow direct sites, top level domain, deny iframes)
 	- Attention: It will break things
-	- NoScript --- (mit always allow / allow direct sites, top level domain)
 
 ------- EXTRA ------
 
