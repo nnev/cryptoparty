@@ -14,12 +14,27 @@ Dienstalternativen:
 
 Tor Browser
 	Was ist Tor? --> Tafel
+		- Mehr und mehr Server
+		- 3 Stück
+		- Tunnel in Tunnel
+		- Wechselnde Relays und Pfade (Circuit change each 10mins)
+		- Tunnel sehen aus wie HTTPS
 	Tails, installieren auf USB-Stick anschneiden
 	Installation TorBowser zeigen
+		- Einstellungen via Tor Button
 	mögliche Gefahren
 		- Wer ist Exit Node?
+		- Tor ohne HTTPS ist eine *sehr* schlechte Idee
+		- Downloads und Browserplugins können sekundäre Verbindungen öffnen
+			- PDFs mit Call-Back Funktion
 		- Verschiedene Arten von Anonymität
-		- Recherchieren (Michael)
+			- Standortanonymität
+				( mein Mailprovider weiß nicht wo ich bin )
+			- Zielanonymität
+				( mein ISP weiß nicht welche Seite ich besuche )
+			- vollständige Anonymität
+		- Problempunkt: Login bei $Service über Tor zerstört vollständige Anonymität
+			- Mittles gemeinsam genutztem Content auf Webseiten  (APIs, Werbung, Like-Button) können so doch wieder Profile angelegt werden
 
 Browserplugin Auswahl:
 	- Self-Destroying Cookies
@@ -27,3 +42,18 @@ Browserplugin Auswahl:
 	- HTTPS Everywhere
 	- Attention: It will break things
 	- NoScript --- (mit always allow / allow direct sites, top level domain)
+
+------- EXTRA ------
+
+Thunderbird, Experteneinstellungen (about:config):
+	general.useragent.override = ""
+	mail.smtpserver.default.hello_argument = "127.0.0.1"
+	javascript.enabled = false
+	webgl.disabled = true
+	geo.enabled = false
+	toolkit.telemetry.enabled = false
+	dom.storage.enabled = false
+	dom.disable_image_src_set =  true
+
+Vollständiges Proxysystem:
+	in LinuX verhältnismäßig einfach
