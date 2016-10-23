@@ -15,4 +15,4 @@
 *.out
 
 # Checkin stuff from Werbung
-!*_Werbung/*.pdf
+!Werbung/*.pdf
