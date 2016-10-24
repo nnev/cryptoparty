@@ -27,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.5"
-     inkscape:cx="613.33002"
-     inkscape:cy="771.24822"
+     inkscape:cx="318.78037"
+     inkscape:cy="993.94922"
      inkscape:document-units="mm"
      inkscape:current-layer="layer6"
      showgrid="false"
@@ -63,7 +63,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -392,416 +392,392 @@
        transform="translate(0,26.000033)"
        id="g4842" />
     <g
-       id="g4453"
-       transform="translate(0,-34.000122)">
-      <g
-         transform="matrix(1.4138006,0,0,1.4138006,0.35877709,-40.079016)"
-         id="g6659">
-        <text
-           sodipodi:linespacing="125%"
-           id="text6661"
-           y="613.19006"
-           x="71.086792"
-           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-           xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.5px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';text-align:start;word-spacing:-7.78044653px;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-             y="613.19006"
-             x="71.086792"
-             sodipodi:role="line"
-             id="tspan6663">Hier ein Titel für </tspan><tspan
-             id="tspan4820"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.5px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';text-align:start;word-spacing:-7.78044653px;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-             y="660.06506"
-             x="71.086792"
-             sodipodi:role="line">Erklärbär</tspan></text>
-      </g>
-      <g
-         transform="translate(0,3.2639026e-5)"
-         id="g4423">
-        <text
-           sodipodi:linespacing="125%"
-           id="text6651"
-           y="996.26935"
-           x="101.1711"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40.64676666px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none"
-           xml:space="preserve"><tspan
-             id="tspan6653"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.25px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-             y="996.26935"
-             x="101.1711"
-             sodipodi:role="line">Di, 8.11.</tspan></text>
-        <text
-           sodipodi:linespacing="125%"
-           id="text6655"
-           y="1036.2693"
-           x="99.803909"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.64676666px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none"
-           xml:space="preserve"><tspan
-             id="tspan6657"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.25px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-             y="1036.2693"
-             x="99.803909"
-             sodipodi:role="line">Mathematikon, INF 205, R. 5/104</tspan></text>
-        <text
-           sodipodi:linespacing="125%"
-           id="text6665"
-           y="996.26935"
-           x="308.60815"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.64676666px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none"
-           xml:space="preserve"><tspan
-             id="tspan6667"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.25px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-             y="996.26935"
-             x="308.60815"
-             sodipodi:role="line">18:30</tspan></text>
-      </g>
+       id="g6659"
+       transform="matrix(1.4138006,0,0,1.4138006,0.35877709,-74.079138)">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:83.26833344px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-         x="101.83511"
-         y="945.41595"
-         id="text6787"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="71.086792"
+         y="613.19006"
+         id="text6661"
          sodipodi:linespacing="125%"><tspan
+           id="tspan6663"
            sodipodi:role="line"
-           x="101.83511"
-           y="945.41595"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-           id="tspan6789">Technik für Nichttechniker</tspan></text>
-    </g>
-    <g
-       id="g4768"
-       transform="translate(663.95606,-356.82166)">
-      <g
-         transform="translate(0,26)"
-         id="g4961">
-        <g
-           transform="matrix(1.4138006,0,0,1.4138006,0.35877709,253.92074)"
-           id="g4902">
-          <text
-             sodipodi:linespacing="125%"
-             id="text4904"
-             y="613.19006"
-             x="71.086792"
-             style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-             xml:space="preserve"><tspan
-               id="tspan4908"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.5px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';text-align:start;word-spacing:-7.78044653px;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-               y="613.19006"
-               x="71.086792"
-               sodipodi:role="line">Workshop: </tspan><tspan
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.5px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';text-align:start;word-spacing:-7.78044653px;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-               y="660.06506"
-               x="71.086792"
-               sodipodi:role="line"
-               id="tspan4928">Anonymität online</tspan></text>
-        </g>
-        <g
-           id="g4930"
-           transform="translate(0,250)">
-          <text
-             sodipodi:linespacing="125%"
-             id="text4910"
-             y="990.26929"
-             x="101.1711"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40.64676666px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none"
-             xml:space="preserve"
-             transform="translate(0,3.26e-5)"><tspan
-               id="tspan4912"
-               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.25px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-               y="990.26929"
-               x="101.1711"
-               sodipodi:role="line">Mo, 14.11.</tspan></text>
-          <text
-             sodipodi:linespacing="125%"
-             id="text4914"
-             y="1030.2693"
-             x="99.803909"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.64676666px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none"
-             xml:space="preserve"
-             transform="translate(0,3.26e-5)"><tspan
-               id="tspan4916"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.25px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-               y="1030.2693"
-               x="99.803909"
-               sodipodi:role="line">Mathematikon, INF 205, R. 5/104</tspan></text>
-          <text
-             sodipodi:linespacing="125%"
-             id="text4918"
-             y="990.26929"
-             x="308.60815"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.64676666px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none"
-             xml:space="preserve"
-             transform="translate(0,3.26e-5)"><tspan
-               id="tspan4920"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.25px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-               y="990.26929"
-               x="308.60815"
-               sodipodi:role="line">18:30</tspan></text>
-        </g>
-      </g>
-    </g>
-    <g
-       id="g4567"
-       transform="translate(0,-41.492848)">
-      <g
-         transform="matrix(1.4138006,0,0,1.4138006,-11.641223,271.08344)"
-         id="g4976">
-        <text
-           sodipodi:linespacing="125%"
-           id="text4978"
-           y="613.19006"
            x="71.086792"
-           style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-           xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.5px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';text-align:start;word-spacing:-7.78044653px;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-             y="613.19006"
-             x="71.086792"
-             sodipodi:role="line"
-             id="tspan4982">Workshop: E-Mail-</tspan><tspan
-             id="tspan5000"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.5px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';text-align:start;word-spacing:-7.78044653px;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-             y="660.06506"
-             x="71.086792"
-             sodipodi:role="line">Verschlüsselung</tspan></text>
-      </g>
+           y="613.19006"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.5px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';text-align:start;word-spacing:-7.78044653px;writing-mode:lr-tb;text-anchor:start;fill:#000000">Hier ein Titel für </tspan><tspan
+           sodipodi:role="line"
+           x="71.086792"
+           y="660.06506"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.5px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';text-align:start;word-spacing:-7.78044653px;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+           id="tspan4820">Erklärbär</tspan></text>
+    </g>
+    <g
+       id="g4423"
+       transform="translate(0,-34.000089)">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40.64676666px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none"
-         x="89.171097"
-         y="1319.4321"
-         id="text4986"
+         x="101.1711"
+         y="996.26935"
+         id="text6651"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
-           x="89.171097"
-           y="1319.4321"
+           x="101.1711"
+           y="996.26935"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.25px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-           id="tspan4988">Di, 15.11.</tspan></text>
+           id="tspan6653">Di, 8.11.</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.64676666px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none"
-         x="87.803909"
-         y="1359.4321"
-         id="text4990"
+         x="99.803909"
+         y="1036.2693"
+         id="text6655"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
-           x="87.803909"
-           y="1359.4321"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.25px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-           id="tspan4992">Hauptstraße 47-51, Übungsraum C</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.64676666px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none"
-         x="296.60815"
-         y="1319.4321"
-         id="text4994"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           x="296.60815"
-           y="1319.4321"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.25px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-           id="tspan4996">18:30</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.64676666px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none"
-         x="86.770874"
-         y="1247.8777"
-         id="text4990-4"
-         sodipodi:linespacing="125%"><tspan
-           sodipodi:role="line"
-           x="86.770874"
-           y="1247.8777"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-           id="tspan4992-8">Zu diesen Veranstaltungen ist das Mitbringen</tspan><tspan
-           id="tspan4409"
-           sodipodi:role="line"
-           x="86.770874"
-           y="1276.0027"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000">eines Laptops erwünscht, aber nicht notwendig.</tspan></text>
-      <g
-         transform="translate(-12,415.16277)"
-         id="g5002">
-        <text
-           transform="translate(0,3.26e-5)"
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40.64676666px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none"
-           x="101.1711"
-           y="990.26929"
-           id="text5004"
-           sodipodi:linespacing="125%"><tspan
-             sodipodi:role="line"
-             x="101.1711"
-             y="990.26929"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.25px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-             id="tspan5006">Mi, 23.11.</tspan></text>
-        <text
-           transform="translate(0,3.26e-5)"
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.64676666px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none"
            x="99.803909"
-           y="1030.2693"
-           id="text5008"
-           sodipodi:linespacing="125%"><tspan
-             sodipodi:role="line"
-             x="99.803909"
-             y="1030.2693"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.25px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-             id="tspan5010">Mathematikon, INF 205, R. 5/104</tspan></text>
-        <text
-           transform="translate(0,3.26e-5)"
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.64676666px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none"
-           x="308.60815"
-           y="990.26929"
-           id="text5012"
-           sodipodi:linespacing="125%"><tspan
-             sodipodi:role="line"
-             x="308.60815"
-             y="990.26929"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.25px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-             id="tspan5014">18:30</tspan></text>
-      </g>
-    </g>
-    <g
-       id="g4625"
-       transform="translate(0,-41.492845)">
+           y="1036.2693"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.25px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+           id="tspan6657">Mathematikon, INF 205, R. 5/104</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.64676666px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none"
-         x="766.33191"
-         y="1247.8777"
-         id="text4990-4-1"
+         x="308.60815"
+         y="996.26935"
+         id="text6665"
          sodipodi:linespacing="125%"><tspan
-           id="tspan4409-4"
            sodipodi:role="line"
-           x="766.33191"
-           y="1247.8777"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000">Mehr als nur E-Mails! Schonmal dagewesen und</tspan><tspan
-           id="tspan4545"
-           sodipodi:role="line"
-           x="766.33191"
-           y="1276.0027"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000">weiter neugierig? Hier bist du richtig.</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:56.55202484px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-         x="763.34186"
-         y="1135.9409"
-         id="text5040"
-         sodipodi:linespacing="125%"><tspan
-           id="tspan5044"
-           sodipodi:role="line"
-           x="763.34186"
-           y="1135.9409"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.0175209px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';text-align:start;word-spacing:-11px;writing-mode:lr-tb;text-anchor:start;fill:#000000">Cryptoparty für</tspan><tspan
-           sodipodi:role="line"
-           x="763.34186"
-           y="1202.2128"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.0175209px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';text-align:start;word-spacing:-11px;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-           id="tspan5062">Fortgeschrittene</tspan></text>
-      <g
-         id="g5046"
-         transform="translate(662.48051,331.37533)">
-        <text
-           sodipodi:linespacing="125%"
-           id="text5048"
-           y="990.26929"
-           x="101.1711"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40.64676666px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none"
-           xml:space="preserve"
-           transform="translate(0,3.26e-5)"><tspan
-             id="tspan5050"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.25px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-             y="990.26929"
-             x="101.1711"
-             sodipodi:role="line">Di, 29.11.</tspan></text>
-        <text
-           sodipodi:linespacing="125%"
-           id="text5052"
-           y="1030.2693"
-           x="99.803909"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.64676666px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none"
-           xml:space="preserve"
-           transform="translate(0,3.26e-5)"><tspan
-             id="tspan5054"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.25px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-             y="1030.2693"
-             x="99.803909"
-             sodipodi:role="line">Bergheimer Straße 58, Raum 03.046</tspan></text>
-        <text
-           sodipodi:linespacing="125%"
-           id="text5056"
-           y="990.26929"
            x="308.60815"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.64676666px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none"
-           xml:space="preserve"
-           transform="translate(0,3.26e-5)"><tspan
-             id="tspan5058"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.25px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-             y="990.26929"
-             x="308.60815"
-             sodipodi:role="line">18:30</tspan></text>
-      </g>
+           y="996.26935"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.25px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+           id="tspan6667">18:30</tspan></text>
     </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text6787"
+       y="911.41583"
+       x="101.83511"
+       style="font-style:normal;font-weight:normal;font-size:83.26833344px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan6789"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+         y="911.41583"
+         x="101.83511"
+         sodipodi:role="line">Technik für Nichttechniker</tspan></text>
     <g
-       id="g4613"
-       transform="translate(0,-19.999998)">
+       transform="matrix(1.4138006,0,0,1.4138006,664.31484,-76.90092)"
+       id="g4902">
       <text
          sodipodi:linespacing="125%"
-         id="text5064"
-         y="1518.1891"
-         x="87.867371"
-         style="font-style:normal;font-weight:normal;font-size:56.55202484px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         id="text4904"
+         y="613.19006"
+         x="71.086792"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.0175209px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';text-align:start;word-spacing:-11px;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-           y="1518.1891"
-           x="87.867371"
+           id="tspan4908"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.5px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';text-align:start;word-spacing:-7.78044653px;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+           y="613.19006"
+           x="71.086792"
+           sodipodi:role="line">Workshop: </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.5px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';text-align:start;word-spacing:-7.78044653px;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+           y="660.06506"
+           x="71.086792"
            sodipodi:role="line"
-           id="tspan5086">Gesprächsrunde: Thema hier, darf auch zwei-</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.0175209px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';text-align:start;word-spacing:-11px;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-           y="1584.4609"
-           x="87.867371"
+           id="tspan4928">Anonymität online</tspan></text>
+    </g>
+    <g
+       id="g4930"
+       transform="translate(663.95606,-82.251925)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text4910"
+         y="990.26929"
+         x="101.1711"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40.64676666px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"
+         transform="translate(0,3.26e-5)"><tspan
+           id="tspan4912"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.25px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+           y="990.26929"
+           x="101.1711"
+           sodipodi:role="line">Mo, 14.11.</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4914"
+         y="1030.2693"
+         x="99.803909"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.64676666px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"
+         transform="translate(0,3.26e-5)"><tspan
+           id="tspan4916"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.25px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+           y="1030.2693"
+           x="99.803909"
+           sodipodi:role="line">Mathematikon, INF 205, R. 5/104</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text4918"
+         y="990.26929"
+         x="308.60815"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.64676666px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"
+         transform="translate(0,3.26e-5)"><tspan
+           id="tspan4920"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.25px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+           y="990.26929"
+           x="308.60815"
+           sodipodi:role="line">18:30</tspan></text>
+    </g>
+    <g
+       id="g4976"
+       transform="matrix(1.4138006,0,0,1.4138006,-11.641223,229.59059)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="71.086792"
+         y="613.19006"
+         id="text4978"
+         sodipodi:linespacing="125%"><tspan
+           id="tspan4982"
            sodipodi:role="line"
-           id="tspan5088">zeilig und hält sich nicht an die Spalten</tspan></text>
-      <g
-         transform="translate(0,6)"
-         id="g4605">
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40.64676666px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none"
+           x="71.086792"
+           y="613.19006"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.5px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';text-align:start;word-spacing:-7.78044653px;writing-mode:lr-tb;text-anchor:start;fill:#000000">Workshop: E-Mail-</tspan><tspan
+           sodipodi:role="line"
+           x="71.086792"
+           y="660.06506"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.5px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';text-align:start;word-spacing:-7.78044653px;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+           id="tspan5000">Verschlüsselung</tspan></text>
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4986"
+       y="1277.9393"
+       x="89.171097"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40.64676666px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan4988"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.25px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+         y="1277.9393"
+         x="89.171097"
+         sodipodi:role="line">Di, 15.11.</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4990"
+       y="1317.9393"
+       x="87.803909"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.64676666px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan4992"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.25px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+         y="1317.9393"
+         x="87.803909"
+         sodipodi:role="line">Hauptstraße 47-51, Übungsraum C</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4994"
+       y="1277.9393"
+       x="296.60815"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.64676666px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan4996"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.25px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+         y="1277.9393"
+         x="296.60815"
+         sodipodi:role="line">18:30</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4990-4"
+       y="1206.3849"
+       x="86.770874"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.64676666px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         id="tspan4992-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+         y="1206.3849"
+         x="86.770874"
+         sodipodi:role="line">Zu diesen Veranstaltungen ist das Mitbringen</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+         y="1234.5099"
+         x="86.770874"
+         sodipodi:role="line"
+         id="tspan4409">eines Laptops erwünscht, aber nicht notwendig.</tspan></text>
+    <g
+       id="g5002"
+       transform="translate(-12,373.66992)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text5004"
+         y="990.26929"
+         x="101.1711"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40.64676666px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"
+         transform="translate(0,3.26e-5)"><tspan
+           id="tspan5006"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.25px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+           y="990.26929"
+           x="101.1711"
+           sodipodi:role="line">Mi, 23.11.</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5008"
+         y="1030.2693"
+         x="99.803909"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.64676666px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"
+         transform="translate(0,3.26e-5)"><tspan
+           id="tspan5010"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.25px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+           y="1030.2693"
+           x="99.803909"
+           sodipodi:role="line">Mathematikon, INF 205, R. 5/104</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5012"
+         y="990.26929"
+         x="308.60815"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.64676666px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"
+         transform="translate(0,3.26e-5)"><tspan
+           id="tspan5014"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.25px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+           y="990.26929"
+           x="308.60815"
+           sodipodi:role="line">18:30</tspan></text>
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4990-4-1"
+       y="1206.3849"
+       x="766.33191"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.64676666px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+         y="1206.3849"
+         x="766.33191"
+         sodipodi:role="line"
+         id="tspan4409-4">Mehr als nur E-Mails! Schonmal dagewesen und</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+         y="1234.5099"
+         x="766.33191"
+         sodipodi:role="line"
+         id="tspan4545">weiter neugierig? Hier bist du richtig.</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text5040"
+       y="1094.4481"
+       x="763.34186"
+       style="font-style:normal;font-weight:normal;font-size:56.55202484px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.0175209px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';text-align:start;word-spacing:-11px;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+         y="1094.4481"
+         x="763.34186"
+         sodipodi:role="line"
+         id="tspan5044">Cryptoparty für</tspan><tspan
+         id="tspan5062"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.0175209px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';text-align:start;word-spacing:-11px;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+         y="1160.72"
+         x="763.34186"
+         sodipodi:role="line">Fortgeschrittene</tspan></text>
+    <g
+       transform="translate(662.48051,287.67001)"
+       id="g5046">
+      <text
+         transform="translate(0,3.26e-5)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40.64676666px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none"
+         x="101.1711"
+         y="990.26929"
+         id="text5048"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="101.1711"
+           y="990.26929"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.25px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+           id="tspan5050">Di, 29.11.</tspan></text>
+      <text
+         transform="translate(0,3.26e-5)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.64676666px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none"
+         x="99.803909"
+         y="1030.2693"
+         id="text5052"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="99.803909"
+           y="1030.2693"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.25px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+           id="tspan5054">Bergheimer Straße 58, Raum 03.046</tspan></text>
+      <text
+         transform="translate(0,3.26e-5)"
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.64676666px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none"
+         x="308.60815"
+         y="990.26929"
+         id="text5056"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="308.60815"
+           y="990.26929"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.25px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+           id="tspan5058">18:30</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:56.55202484px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="87.867371"
+       y="1498.1891"
+       id="text5064"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan5086"
+         sodipodi:role="line"
+         x="87.867371"
+         y="1498.1891"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.0175209px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';text-align:start;word-spacing:-11px;writing-mode:lr-tb;text-anchor:start;fill:#000000">Gesprächsrunde: Thema hier, darf auch zwei-</tspan><tspan
+         id="tspan5088"
+         sodipodi:role="line"
+         x="87.867371"
+         y="1564.4609"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.0175209px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold';text-align:start;word-spacing:-11px;writing-mode:lr-tb;text-anchor:start;fill:#000000">zeilig und hält sich nicht an die Spalten</tspan></text>
+    <g
+       id="g4605"
+       transform="translate(0,-11.999998)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text5072"
+         y="1625.6099"
+         x="88.177124"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40.64676666px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan5074"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.25px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
+           y="1625.6099"
            x="88.177124"
-           y="1625.6099"
-           id="text5072"
-           sodipodi:linespacing="125%"><tspan
-             sodipodi:role="line"
-             x="88.177124"
-             y="1625.6099"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:31.25px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-             id="tspan5074">Di, 13.12.</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.64676666px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none"
-           x="86.809937"
+           sodipodi:role="line">Di, 13.12.</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5076"
+         y="1665.6099"
+         x="86.809937"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.64676666px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan5078"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.25px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
            y="1665.6099"
-           id="text5076"
-           sodipodi:linespacing="125%"><tspan
-             sodipodi:role="line"
-             x="86.809937"
-             y="1665.6099"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.25px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-             id="tspan5078">Mathematikon, INF 205, R. 5/104</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.64676666px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none"
-           x="295.6142"
+           x="86.809937"
+           sodipodi:role="line">Mathematikon, INF 205, R. 5/104</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text5080"
+         y="1625.6099"
+         x="295.6142"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.64676666px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           id="tspan5082"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.25px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
            y="1625.6099"
-           id="text5080"
-           sodipodi:linespacing="125%"><tspan
-             sodipodi:role="line"
-             x="295.6142"
-             y="1625.6099"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.25px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000"
-             id="tspan5082">18:30</tspan></text>
-      </g>
+           x="295.6142"
+           sodipodi:role="line">18:30</tspan></text>
     </g>
   </g>
   <g
