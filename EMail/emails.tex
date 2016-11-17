@@ -1,0 +1,18 @@
+\makeatletter
+\newcounter{speaker}
+\newcommand{\addspeaker}[1]{%
+	\addtocounter{speaker}{1}%
+	\@namedef{speaker\Alph{speaker}Email}{\@nameuse{#1Email}}%
+	\@namedef{speaker\Alph{speaker}FP}{\@nameuse{#1FP}}%
+}
+\makeatother
+
+%
+% ----------------------------------------------
+%
+
+\newcommand{\mfhEmail}{info@michael-herbst.com}
+\newcommand{\mfhFP}{3C0D 5B31 CDC8 F3B8 52AD\\00E6 3887 DB67 44A9 DF9F}
+
+\newcommand{\chertiEmail}{jonas@letopolis.de}
+\newcommand{\chertiFP}{9393 3D08 35F9 BC8A 02BB\\5D41 138F BE3C 3B0F 5529}
